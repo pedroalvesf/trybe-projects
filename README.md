@@ -5,3 +5,4 @@ This repository will be always updated with personal and professional projects!
 |---|---|---|---|
 Pixels Art|Fundamentals|https://github.com/pedroalvesf/project-pixels-arts.git|HTML, CSS & JS|
 To-do List|Fundamentals|https://github.com/pedroalvesf/project-to-do-list|HTML, CSS & JS|
+Trybetunes|Front-end|https://github.com/pedroalvesf/trybetunes-3.2|React, Router, Tailwind, Vite, React Icons, DaisyUi|
