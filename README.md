@@ -7,4 +7,4 @@ Pixels Art|Fundamentals|https://github.com/pedroalvesf/project-pixels-arts.git|H
 To-do List|Fundamentals|https://github.com/pedroalvesf/project-to-do-list|HTML, CSS & JS|
 Trybetunes|Front-end|https://github.com/pedroalvesf/trybetunes-3.2|React, Router, Tailwind, Vite, React Icons, DaisyUi|
 Backend|Challenge|https://github.com/pedroalvesf/picpay-java|Java, Spring Boot, JPA|
-Bid-project|Backend|https://github.com/pedroalvesf/backend-bid-project|Node.js, TypeScript, Nest, Prisma, Docker|
+Bid Project|Backend|https://github.com/pedroalvesf/backend-bid-project|Node.js, TypeScript, Nest, Prisma, Docker|
